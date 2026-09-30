@@ -21,15 +21,9 @@
     --menu-text-weith: 500;
 }
 
-
-h1{
-    font-family: "Montserrat";
-    font-weight: var(--titles-weith);
-    color: var(--primary-color)
-}
-
 /*CSS RESET*/
 body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     margin: 0;
     padding: 0;
 }
+
